@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Patreon.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1"
   },
   "pages": {
