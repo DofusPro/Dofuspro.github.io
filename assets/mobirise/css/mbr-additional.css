@@ -495,3 +495,101 @@ h6,
 #header6-3 .mbr-section-text {
   color: #565656;
 }
+
+#menu-6 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6 .navbar-caption {
+  color: #ffffff;
+}
+#menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6 .link,
+#menu-6 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-6 .link {
+  font-size: 0.75rem;
+}
+#menu-6 .dropdown-item,
+#menu-6 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-6 .link:hover,
+#menu-6 .dropdown-item:hover,
+#menu-6 .link:focus,
+#menu-6 .dropdown-item:focus {
+  color: #2b0680;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-6 .nav-dropdown-sm .link:focus,
+#menu-6 .nav-dropdown-sm .link:hover,
+#menu-6 .nav-dropdown-sm .dropdown-item:focus,
+#menu-6 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-6 .navbar,
+#menu-6 .nav-dropdown-sm,
+#menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-6 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-6 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6 .bg-color.transparent.opened .link:hover,
+#menu-6 .bg-color.transparent.opened .link:focus {
+  color: #2b0680;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-item[aria-expanded="true"] {
+  color: #2b0680!important;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6 .close-icon::before,
+#menu-6 .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box3-k .mbr-section-title,
+#msg-box3-k p {
+  color: #000;
+}
+#header5-d .mbr-section-title {
+  color: #000;
+  text-align: center;
+}
+#header5-d .mbr-section-lead {
+  color: #000000;
+  text-align: center;
+}
+#msg-box6-e .mbr-section-title,
+#msg-box6-e .lead p {
+  color: #fff;
+}
+#msg-box6-e H3 {
+  color: #000000;
+}
+#header5-g .mbr-section-title {
+  color: #000;
+}
+#header5-g .mbr-section-lead {
+  color: #9c9a9a;
+}
+#content5-b .mbr-section-title,
+#content5-b p {
+  color: #fff;
+}
