@@ -678,9 +678,18 @@ h6,
 #menu-1b .close-icon::after {
   background-color: #ffffff;
 }
+#features2-1g .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #msg-box2-1f .mbr-section-title {
   color: #fff;
 }
 #msg-box2-1f .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#header5-1h .mbr-section-title {
+  color: #000;
+}
+#header5-1h .mbr-section-lead {
+  color: #9c9a9a;
 }
