@@ -29,8 +29,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "MeteorBot ",
+        "meta_descr": "Pagina oficial de MeteorBot donde podras encontrar toda su informacion \n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
