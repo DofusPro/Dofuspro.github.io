@@ -610,6 +610,18 @@ h6,
   color: #000;
 }
 
+#msg-box2-1f .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-1f .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header5-1h .mbr-section-title {
+  color: #000;
+}
+#header5-1h .mbr-section-lead {
+  color: #9c9a9a;
+}
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -680,16 +692,4 @@ h6,
 }
 #features2-1g .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
-}
-#msg-box2-1f .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-1f .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#header5-1h .mbr-section-title {
-  color: #000;
-}
-#header5-1h .mbr-section-lead {
-  color: #9c9a9a;
 }
