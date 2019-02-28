@@ -568,6 +568,12 @@ h6,
 #msg-box3-k p {
   color: #000;
 }
+#header1-c .mbr-section-title {
+  color: #000000;
+}
+#header1-c .mbr-section-lead {
+  color: #000000;
+}
 #header5-d .mbr-section-title {
   color: #000;
   text-align: center;
@@ -588,6 +594,12 @@ h6,
 }
 #header5-g .mbr-section-lead {
   color: #9c9a9a;
+}
+#header4-h .mbr-section-title {
+  color: #000000;
+}
+#header4-h .mbr-section-lead {
+  color: #000000;
 }
 #content5-b .mbr-section-title,
 #content5-b p {
